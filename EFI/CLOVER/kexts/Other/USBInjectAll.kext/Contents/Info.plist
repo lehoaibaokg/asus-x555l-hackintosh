@@ -296,6 +296,13 @@
 							<key>port</key>
 							<data>BQAAAA==</data>
 						</dict>
+						<key>HS06</key>
+						<dict>
+							<key>UsbConnector</key>
+							<integer>3</integer>
+							<key>port</key>
+							<data>BgAAAA==</data>
+						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
